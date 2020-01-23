@@ -12,6 +12,10 @@ class Transaction extends UnioBank{
 	private $Itens;
 	private $Value;
 
+	public function Tetee(){
 
+		
+		
+	}
 
 }
