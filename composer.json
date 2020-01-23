@@ -1,0 +1,19 @@
+{
+    "name": "porglin/uniobank",
+    "description": "UnioBank SDK PHP",
+    "authors": [
+        {
+            "name": "Theodoro Paim",
+            "email": "theodoro@porglin.com.br"
+        }
+    ],
+    "autoload": {
+        "files": [
+        ],
+		"psr-4":{
+            "UnioBank\\": "class"
+		}
+	},
+    "require": {
+    }
+}
