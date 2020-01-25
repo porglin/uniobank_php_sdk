@@ -24,4 +24,6 @@ $UnioBank = new Marketplace(array(
 	"Environment" => 2
 
 ));
-$UnioBank->linkMarktplaceHolder("235689");
+// $UnioBank->linkMarktplaceHolder("235689");
+
+var_dump($UnioBank->getLinkMarketplaceHolderInfo("235689"));
